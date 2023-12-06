@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Orders API2
+  title: Orders API
   description: This is a sample Orders API
   termsOfService: http://swagger.io/terms/
   contact:
